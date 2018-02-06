@@ -5,7 +5,7 @@ This particular project aims to develop an automated, machine learning based alg
 
 
 ## Purpose
-The dynamics of the population and extent of informal settlement can be a basis for various analysis to enhance the life quality of refugees and IDPs (Internally displaced person). You can read more in [docs/APPLICATIONS.md](docs/APPLICATIONS.md)
+The dynamics of the population and extent of informal settlement can be a basis for various analysis to enhance the life quality of refugees and IDPs (Internally displaced person). You can read more in [APPLICATIONS.md](/docs/APPLICATIONS.md)
 
 
 ## Methodology
