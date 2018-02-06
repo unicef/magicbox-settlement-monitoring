@@ -39,15 +39,15 @@ Below is a tentative outline of the proposed tasks to estimate the extent and po
 
 
 ## Project management
-We will use Github issues and [waffle.io/benvolia/unicef-innovation-settlement-monitoring/]() to organize the project.
+We will use Github issues and [waffle.io/benvolia/unicef-innovation-settlement-monitoring/](https://waffle.io/benvolia/unicef-innovation-settlement-monitoring) to organize the project.
 Issues will try to divide the work into small manageable tasks to eventually folllow the project outlined above.
 ### Issue tracking
 The [project board](https://waffle.io/benvolia/unicef-innovation-settlement-monitoring) has several columns:
-- Backlog: List of tasks and issues
-- Next: *Important tasks that needs to get done, find one that suits your skills and let's go!*
-- In Progress: *Somebody is working on it, let them know if you can help!*
-- Review: *A PR is out for this task, have a look and see if you have any comments!*
-- Done: *The associated PR has been approved and merged, good job!*
+- `Backlog`: *List of tasks and issues*
+- `Next`: *Important tasks that needs to get done, find one that suits your skills and let's go!*
+- `In Progress`: *Somebody is working on it, let them know if you can help!*
+- `Review`: *A PR is out for this task, have a look and see if you have any comments!*
+- `Done`: *The associated PR has been approved and merged, good job!*
 To coordinate efforts, we ask contributors to assign themselves to the tasks they are working on.
 
 ### Issue tagging
