@@ -1,14 +1,18 @@
 # CONTRIBUTING
-This projects aims at being inherently open source. Algorithms should use open-source technologies and open-source datasets.
-We aim to strusture the respository so as to faciliate volunteer contributions. Please follow the guidelines below to get started and contribute as efficiently as possible.
+This project is inherently open-source and collaborative. We will structure this respository and project to faciliate volunteer contributions. Please follow the guidelines available below to get started and contribute as efficiently as possible.
+Just a few quick notes:
+	- Algorithms should use open-source technologies.
+	- Dataset used should be open-source or easily available and trackable.
 
-## Datasets involved
-Satellite imagery in the public domain.
-	Landsat 8, Sentinel 1, 2 (available through Google Earth Engine).
 
-Location data
+## Initial data and datasets involved
+### Location data
 	Coordinates of know IDP and refugee camps in Iraq.
 	The coordinates can be found in [data](data).
+
+### Satellite imagery in the public domain.
+	Landsat 8, Sentinel 1, 2 (available through Google Earth Engine).
+
 
 ## Methods and expected tasks
 Below is a tentative outline of the proposed tasks to estimate the extent and population changes in informal settlements.
@@ -32,3 +36,28 @@ Explore algorithms to estimate settlement population including extrapolation/dow
 ### Task III - Tracking
 Test algorithms on “live” data, i.e. Planet or DG.
 If successful, we could think about creating a change tracker if the size of settlement Z changes by more than X %.
+
+
+## Project management
+We will use Github issues and [waffle.io/benvolia/unicef-innovation-settlement-monitoring/]() to organize the project.
+Issues will try to divide the work into small manageable tasks to eventually folllow the project outlined above.
+### Issue tracking
+The [project board](https://waffle.io/benvolia/unicef-innovation-settlement-monitoring) has several columns:
+	- Backlog: List of tasks and issues
+	- Next: *Important tasks that needs to get done, find one that suits your skills and let's go!*
+	- In Progress: *Somebody is working on it, let them know if you can help!*
+	- Review: *A PR is out for this task, have a look and see if you have any comments!*
+	- Done: *The associated PR has been approved and merged, good job!*
+To coordinate efforts, we ask contributors to assign themselves to the tasks they are working on.
+
+### Issue tagging
+When looking for a new task to contribute, prioritize looking for tasks in `Next` before looking at issues in the Backlog.
+Usually, we will try and keep issues with tags to orient contributors. Here are a few tags to lookout for:
+	- `good-first-issue`: *Easier tasks that help discover the project*
+	- `bug`
+	- `priority`
+	- `needs-help`
+
+## Maintainer
+The maintainer associated to this project is `ericboucher`. If you have any questions, you can contact him at [boucher@bayesimpact.org](mailto:boucher@bayesimpact.org)
+
