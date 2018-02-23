@@ -35,11 +35,11 @@ Below is a tentative outline of the proposed tasks to estimate the extent and po
 
 ### Task III - Tracking
 - Test algorithms on “live” data, i.e. Planet or DG.
-- If successful, we could think about creating a change tracker if the size of settlement Z changes by more than X %.
+- If successful, we could think about creating a change tracker if the size of settlement Z changes by more than X%.
 
 
 ## Project management
-We will use Github issues and [waffle.io/benvolia/unicef-innovation-settlement-monitoring/](https://waffle.io/benvolia/unicef-innovation-settlement-monitoring) to organize the project.
+We will use Github issues and [waffle.io/oviohub/unicef-innovation-settlement-monitoring/](https://waffle.io/benvolia/unicef-innovation-settlement-monitoring) to organize the project.
 Issues will try to divide the work into small manageable tasks to eventually folllow the project outlined above.
 ### Issue tracking
 The [project board](https://waffle.io/benvolia/unicef-innovation-settlement-monitoring) has several columns:
