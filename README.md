@@ -12,5 +12,5 @@ The dynamics of the population and extent of informal settlement can be a basis 
 This project is inherently open-source. We will structure this respository and project to faciliate volunteer contributions.
 Please follow the guidelines available in [CONTRIBUTING](/docs/CONTRIBUTING.md) to get started and contribute as efficiently as possible.
 Just a few quick notes:
-	- Algorithms should use open-source technologies.
-	- Dataset used should be open-source or easily available and trackable.
+- Algorithms should use open-source technologies.
+- Dataset used should be open-source or easily available and trackable.
