@@ -1,8 +1,8 @@
 # CONTRIBUTING
 This project is inherently open-source and collaborative. We will structure this respository and project to faciliate volunteer contributions. Please follow the guidelines available below to get started and contribute as efficiently as possible.
 Just a few quick notes:
-	- Algorithms should use open-source technologies.
-	- Dataset used should be open-source or easily available and trackable.
+- Algorithms should use open-source technologies.
+- Dataset used should be open-source or easily available and trackable.
 
 
 ## Initial data and datasets involved
@@ -21,7 +21,7 @@ Below is a tentative outline of the proposed tasks to estimate the extent and po
 - Data acquisition
 	- List of coordinates for the settlements of interest (formal or informal).
 	- Create dataset of public satellite imagery containing each settlement
-- Contour detection and size estimation
+- Contour detection and size estimation (At this stage, a square meter estimate should be enough. However, it is important to keep in mind that ultimately, the most useable size metric is `population`.)
 - Validate results visually or with existing location datasets.
 
 ### Task I-b (Optional - Not needed if results of Phase I are satisfactory)
@@ -29,9 +29,12 @@ Below is a tentative outline of the proposed tasks to estimate the extent and po
 	- Use human input (i.e. Mechanical Turk) to create a training dataset with crowd-sourced contours.
 - New iteration of contour / sizing algorithms with added input for accuracy. The additional info and human input will allow the use of more complex algorithms for training.
 
+
 ### Task II - Population Estimation
 - Research settlement size estimates at different dates.
-- Explore algorithms to estimate settlement population including extrapolation/downscaling  of existing datasets
+- Explore algorithms to estimate settlement population including extrapolation/downscaling  of existing datasets.
+- Ultimately, population is most actionable size metric. A few use-cases are listed in [APPLICATIONS](APPLICATIONS.md); among other things, estimations would be used for tracking population displacements and resource allocation.
+
 
 ### Task III - Tracking
 - Test algorithms on “live” data, i.e. Planet or DG.
@@ -60,4 +63,3 @@ Usually, we will try and keep issues with tags to orient contributors. Here are 
 
 ## Maintainer
 The maintainer associated to this project is `ericboucher`. If you have any questions, you can contact him at [boucher@bayesimpact.org](mailto:boucher@bayesimpact.org)
-
