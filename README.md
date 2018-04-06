@@ -1,7 +1,7 @@
 # UNICEF - Informal Settlement Monitoring
 
 ## Project
-This particular project aims to develop an automated, machine learning based algorithms to estimate changes in the extent and populations of the informal settlements with known locations in Iraq using publicly available satellite imagery. The results of this project are expected to provide disaggregated and multi-temporal, geospatial information on informal settlements and their surroundings which can be used for the policy making process to enhance refugee children’s living condition and to evaluate the effectiveness of interventions.
+This particular project aims to develop automated, machine learning based algorithms to estimate changes in the extent and populations of the informal settlements with known locations in Iraq using publicly available satellite imagery. The results of this project are expected to provide disaggregated and multi-temporal, geospatial information on informal settlements and their surroundings which can be used for the policy making process to enhance refugee children’s living condition and to evaluate the effectiveness of interventions.
 
 
 ## Purpose
