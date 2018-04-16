@@ -67,11 +67,11 @@ def main():
         # Get the high resolution image
         img = gsid.get_image()
     except IOError:
-        print("Could not generate the image - try adjusting the zoom level and checking your coordinates")
+        print("Could not generate the image - try adjusting the zoom level and checking your coordinates.")
     else:
         #Save the image to disk
         current_path = os.path.dirname(sys.argv[0])
         img.save(current_path+"/images/satellite_image_"+str(latitude)+"_"+str(longitude)+".png")
-        print("The map has successfully been created")
+        print("The map has successfully been created.")
 
 if __name__ == '__main__':  main()
